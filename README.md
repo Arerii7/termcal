@@ -32,10 +32,9 @@ Mo Tu We Th Fr Sa Su
 Today: 02 August 2025
 
 ## ⚙️ Installation
-bash
-Копировать
-Редактировать
-git clone https://github.com/yourusername/termcal.git
+
+```bash
+git clone https://github.com/Arerii7/termcal.git
 cd termcal
 chmod +x termcal.py
 
